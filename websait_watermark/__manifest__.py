@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright 2019 Artem Shurshilov
+# Copyright 2019 Shurshilov Artem
 # License OPL-1.0 or later (https://www.gnu.org/licenses/lgpl.html).
 
 {
@@ -17,7 +17,7 @@
 #    'website': "https://vk.com/id20132180",
     "license": "OPL-1",
     'category': 'Accounting',
-    'version': '12.0.0.0',  # odoo.x.y.z; z - bags, y - feautures, x - model or view big changes
+    'version': '13.0.0.0',  # odoo.x.y.z; z - bags, y - feautures, x - model or view big changes
     'depends': ['base', 'web', 'website', 'stock', 'product', 'website_sale'],  # any odoo module necessary for this one to work correctly
     'data': [  # always loaded
         'views/res_config_settings_views.xml',

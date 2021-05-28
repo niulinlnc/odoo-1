@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
-# Copyright 2018 Artem Shurshilov
+# Copyright 2018 Shurshilov Artem
 # License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl.html).
 
 {
     'name': "Website product dimensions",  # It must be non-technical name of the module
-    'summary': """Provide product dimensions in stock and e-commerce for products and display it on website""",  # describe here which problems solved by module
+    'summary': """Provide product dimensions in stock and e-commerce for products and display it on website
+    [TAGS] product website size produxt website dimensions proportions measurements magnitude scantling
+    product volume product capacity product length product width breadth beam""",  # describe here which problems solved by module
     'author': "Shurshilov Artem",
     'support': "shurshilov.a@yandex.ru",
 #    'website': "https://vk.com/id20132180",
